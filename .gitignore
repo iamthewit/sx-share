@@ -1,3 +1,7 @@
+.idea
+
+docker/mongo-database/
+docker/mysql-database/
 
 ###> symfony/framework-bundle ###
 /.env.local
